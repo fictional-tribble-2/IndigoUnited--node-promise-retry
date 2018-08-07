@@ -1,6 +1,6 @@
 # node-promise-retry
 
-[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/IndigoUnited--node-promise-retry.svg)](https://www.staging.guardrails.io)
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/IndigoUnited--node-promise-retry.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/IndigoUnited--node-promise-retry.svg)](https://www.guardrails.io)
 
 [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency status][david-dm-image]][david-dm-url] [![Dev Dependency status][david-dm-dev-image]][david-dm-dev-url] [![Greenkeeper badge][greenkeeper-image]][greenkeeper-url]
 
